@@ -1,3 +1,3 @@
-# SOLVED.AC
+# Computer-Programming-for-Engineers
 
-### codes during solving solved.ac problems
+### codes during studying cpp
